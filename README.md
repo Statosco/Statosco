@@ -72,7 +72,7 @@ I'm a passionate developer specializing in scalable distributed systems and micr
 
 ## 🏆 Featured Projects
 
-### 🌟 [Distributed Social Commerce Platform](https://github.com/Silefolio/social-commerce-platform)
+### 🌟 [Distributed Social Commerce Platform](https://github.com/Siteforlio/send-Flap)
 **Tech Stack:** React.js, Node.js, MongoDB, AWS, Docker, Redis  
 A fault-tolerant distributed system handling 10,000+ concurrent users with microservices architecture, advanced caching strategies, and real-time collaboration features.
 
@@ -85,7 +85,7 @@ A fault-tolerant distributed system handling 10,000+ concurrent users with micro
 
 ---
 
-### 🎯 [High-Performance Task Management Engine](https://github.com/Silefolio/task-management-engine)
+### 🎯 [High-Performance Task Management Engine](https://github.com/Siteforlio/send-Flap)
 **Tech Stack:** Next.js, TypeScript, MongoDB, GraphQL, WebSocket  
 Built distributed system processing 50+ tasks with advanced algorithms for conflict resolution, implementing offline-first algorithms with conflict resolution and optimistic updates.
 
@@ -98,7 +98,7 @@ Built distributed system processing 50+ tasks with advanced algorithms for confl
 
 ---
 
-### 🚀 [Scalable API Gateway & Microservices Infrastructure](https://github.com/Silefolio/api-gateway)
+### 🚀 [Scalable API Gateway & Microservices Infrastructure](https://github.com/Siteforlio/send-Flap)
 **Tech Stack:** Python, Docker, Kubernetes, Apache Kafka, Redis  
 Enterprise-grade API gateway processing 100,000+ requests/minute with circuit breakers, rate limiting, and sub-100ms latency using advanced caching and load balancing.
 
@@ -154,7 +154,7 @@ Enterprise-grade API gateway processing 100,000+ requests/minute with circuit br
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Silefolio&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Statosco&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 </div>
 
 ---
