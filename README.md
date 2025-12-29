@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-siteforlio.tech/solomon--jesse-5B63FD?style=for-the-badge&logo=vercel)](https://siteforlio.tech/solomon-jesse)
 [![SiteForlio](https://img.shields.io/badge/SiteForlio-Company-FF6B6B?style=for-the-badge&logo=rocket)](https://siteforlio.tech)
 [![Email](https://img.shields.io/badge/Email-hello@siteforlio.tech-4ECB71?style=for-the-badge&logo=gmail)](mailto:hello@siteforlio.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/siteforlio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/solomonbarakajesse)
 
 </div>
 
@@ -176,28 +176,78 @@
 
 <div align="center">
 
-## 🎨 **Featured Work**
+## 💼 **Work Experience**
 
 </div>
 
 <div align="center">
 
-### **SiteForlio Landing** - Next.js 15 + 3D Experiences
+<table>
+<tr>
+<td align="center" width="50%">
 
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://siteforlio.tech)
-[![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react)](https://siteforlio.tech)
-[![Three.js](https://img.shields.io/badge/Three.js-3D-black?style=flat-square&logo=three.js)](https://siteforlio.tech)
-[![Spline](https://img.shields.io/badge/Spline-4.0-5B63FD?style=flat-square)](https://siteforlio.tech)
+### 🚀 **Current**
 
-Modern landing page with 3D Spline integration, GSAP animations, and custom GLSL shaders
+<br/>
 
-[**View Live →**](https://siteforlio.tech)
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<br/><br/>
+
+**Senior AI Developer**
+<br/>
+<sub>[@Digi](https://www.linkedin.com/company/digi-enterprise)</sub>
+
+<br/><br/>
+
+Building intelligent enterprise solutions with cutting-edge AI
+
+<br/>
 
 ---
 
-### **Check Out My Portfolio**
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🎯_Full_Portfolio-View_All_Projects-5B63FD?style=for-the-badge)](https://siteforlio.tech/solomon-jesse)
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<br/><br/>
+
+**Founder & CTO**
+<br/>
+<sub>[@SiteForlio](https://siteforlio.tech)</sub>
+
+<br/><br/>
+
+Building companies for the next generation of founders
+
+</td>
+<td align="center" width="50%">
+
+### 📚 **Previous**
+
+<br/>
+
+**Full-Stack Developer**
+<br/>
+<sub>[@Ukuaji](https://www.linkedin.com/company/ukuaji-tech) • Microsoft Startup</sub>
+
+<br/><br/>
+
+**AI Engineer**
+<br/>
+<sub>[@DigiLaw](https://www.linkedin.com/company/digilaw-app)</sub>
+
+<br/><br/>
+
+**Software Developer**
+<br/>
+<sub>[@Flap](https://www.linkedin.com/in/solomonbarakajesse) • South African Startup</sub>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
