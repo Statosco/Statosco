@@ -1,164 +1,282 @@
-# Hi there, I'm Solomon Baraka Jesse 👋
-
-## 🚀 Senior Software Developer | Full Stack Engineer | Cloud Architect
-
-I'm a passionate developer specializing in scalable distributed systems and microservices architecture. Currently building enterprise-grade solutions with cutting-edge technologies.
-
-### 🔭 What I'm Working On
-- 🌟 **Distributed Social Commerce Platform** - Architecting fault-tolerant systems serving 10,000+ concurrent users
-- 📚 Learning: Advanced Kubernetes orchestration and Service Mesh architectures
-- 🎯 Goal: Leading technical innovation in enterprise software solutions
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend & APIs
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-### Databases & Big Data
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Statosco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Statosco&layout=compact&langs_count=7&theme=tokyonight"/>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=Solomon%20Jesse&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=AI%20Software%20Engineer%20%7C%20Building%20The%20Future&descAlignY=55&descSize=20)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Statosco&theme=tokyonight" alt="GitHub Streak" />
+
+### 🤖 **AI Software Engineer | Full-Stack Developer | Technical Co-Founder**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-siteforlio.tech/solomon--jesse-5B63FD?style=for-the-badge&logo=vercel)](https://siteforlio.tech/solomon-jesse)
+[![SiteForlio](https://img.shields.io/badge/SiteForlio-Company-FF6B6B?style=for-the-badge&logo=rocket)](https://siteforlio.tech)
+[![Email](https://img.shields.io/badge/Email-hello@siteforlio.tech-4ECB71?style=for-the-badge&logo=gmail)](mailto:hello@siteforlio.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/siteforlio)
+
 </div>
 
 ---
 
-## 🏆 Featured Projects
+<div align="center">
 
-### 🌟 [Distributed Social Commerce Platform](https://github.com/Siteforlio/send-Flap)
-**Tech Stack:** React.js, Node.js, MongoDB, AWS, Docker, Redis  
-A fault-tolerant distributed system handling 10,000+ concurrent users with microservices architecture, advanced caching strategies, and real-time collaboration features.
+## 📊 **At a Glance**
 
-**Key Features:**
-- ✨ Microservices architecture with horizontal scaling
-- 🚀 99.99% uptime SLA with distributed load balancing  
-- 🔒 Advanced caching layer using Redis and database sharding
-
-[🔗 Live Demo](https://app.ukuaji.com) | [📖 Architecture Docs](https://docs.social-commerce.com)
-
----
-
-### 🎯 [High-Performance Task Management Engine](https://github.com/Siteforlio/send-Flap)
-**Tech Stack:** Next.js, TypeScript, MongoDB, GraphQL, WebSocket  
-Built distributed system processing 50+ tasks with advanced algorithms for conflict resolution, implementing offline-first algorithms with conflict resolution and optimistic updates.
-
-**Achievements:**
-- 📈 Improved performance and reduced database load by 60%
-- 👥 Supports 1,000+ concurrent users with operational transform algorithms
-- 📱 Real-time collaboration with WebSocket clustering
-
-[🔗 Live Demo]() | [🎥 Video Demo]()
-
----
-
-### 🚀 [Scalable API Gateway & Microservices Infrastructure](https://github.com/Siteforlio/send-Flap)
-**Tech Stack:** Python, Docker, Kubernetes, Apache Kafka, Redis  
-Enterprise-grade API gateway processing 100,000+ requests/minute with circuit breakers, rate limiting, and sub-100ms latency using advanced caching and load balancing.
-
-**Technical Highlights:**
-- ⚡ Sub-100ms response latency with intelligent caching
-- 🔧 Handles 100,000+ daily transactions with eventual consistency
-- 🛡️ Comprehensive monitoring and distributed tracing with custom metrics
-
-[🔗 Live Demo]() | [📊 Performance Metrics]()
-
----
-
-## 💼 Professional Experience
-
-**Senior Software Developer** @ Ukuaji (Microsoft Startup) *(Jan 2024 - Present)*
-- 🎯 Architected secure social collaboration platform serving 10,000+ concurrent users with distributed system design
-- 🔧 Led technical contributions to enterprise-scale codebase comprising 150,000+ lines of code across 50+ microservices
-- 👨‍💻 Designed fault-tolerant distributed systems using Next.js/TypeScript, Express.js, and MySQL with horizontal scaling, load balancing, and 99.99% uptime SLA
-- ⚡ Implemented high-performance caching layer using Redis achieving 50ms response times and supporting 10x traffic growth
-
-**Senior Software Developer** @ Flap - South Africa *(2022 - 2024)*
-- 🚀 Designed and built online travel business management platform serving 10,000+ daily bookings with microservices architecture
-- 📊 Built high-throughput task management system using Next.js/TypeScript and MongoDB with sharding for optimal performance and sub-second response times for 99% availability
-- 🔄 Architected cross-platform mobile applications using Flutter/Dart and React Native, implementing offline-first algorithms with conflict resolution for distributed systems
-- 🛡️ Developed real-time collaboration engine with WebSocket clustering, supporting 1,000+ concurrent users with operational transform algorithms for conflict-free replicated data
-
----
-
-## 🎓 Education & Certifications
-
-**🎓 Diploma in Programming** - Self-taught + Formal Education  
-*Specialized in Full-Stack Development* - Nairobi, Kenya
-
-**📜 Certifications:**
-- AWS Certified Solutions Architect
-- Microsoft Azure Fundamentals
-- Google Cloud Professional Developer
-
----
-
-## 🌐 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/solomonbarakajesse)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siteforlio@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Statosco)
-
----
-
-## 📈 Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Statosco&theme=tokyo-night)
-
----
+</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Statosco&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/6+-Years_Experience-8B5CF6?style=for-the-badge&labelColor=1a1a1a" alt="6+ Years"/>
+<br/><br/>
+<sub><b>Building Production Systems</b></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/69+-Projects_Delivered-3B82F6?style=for-the-badge&labelColor=1a1a1a" alt="69+ Projects"/>
+<br/><br/>
+<sub><b>Across Multiple Industries</b></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-⭐ **Fun Fact:** I've optimized systems to handle 100,000+ daily transactions and love architecting solutions that scale globally!
+<div align="center">
 
-💡 **Always open to interesting conversations and collaboration opportunities on distributed systems and cloud architecture!**
+## 🎓 **Education**
+
+</div>
+
+<div align="center">
+
+| Institution | Focus | Status |
+|:---|:---:|:---:|
+| **Harvard University** | Computer Science | ![Complete](https://img.shields.io/badge/Complete-DC143C?style=flat-square) |
+| **Harvard University** | Artificial Intelligence with Python | ![Complete](https://img.shields.io/badge/Complete-8B5CF6?style=flat-square) |
+| **MIT** | Data Science | ![Complete](https://img.shields.io/badge/Complete-00B4D8?style=flat-square) |
+| **Programming Diploma** | Full-Stack Development | ![Complete](https://img.shields.io/badge/Complete-FB8500?style=flat-square) |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 **Tech Arsenal**
+
+</div>
+
+<div align="center">
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **AI/ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **What I Do**
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<br/><br/>
+<b>AI Engineering</b>
+<br/><br/>
+<sub>Building intelligent systems with<br/>ML, NLP & Computer Vision</sub>
+</td>
+<td align="center" width="33%">
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<br/><br/>
+<b>Full-Stack Development</b>
+<br/><br/>
+<sub>Scalable web & mobile apps<br/>from idea to production</sub>
+</td>
+<td align="center" width="33%">
+<img width="80" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"/>
+<br/><br/>
+<b>Cloud Architecture</b>
+<br/><br/>
+<sub>Designing & deploying<br/>enterprise-grade infrastructure</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏢 **Current Focus**
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  🎯  Founder & CTO at SiteForlio                            ║
+║      Building companies for the next generation of founders ║
+║                                                              ║
+║  🤖  Specializing in AI-powered MVPs                        ║
+║      Modern web apps with cutting-edge AI integration       ║
+║                                                              ║
+║  📚  Harvard CS + AI | MIT Data Science                     ║
+║      Applying academic rigor to real-world problems          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 **Featured Work**
+
+</div>
+
+<div align="center">
+
+### **SiteForlio Landing** - Next.js 15 + 3D Experiences
+
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://siteforlio.tech)
+[![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react)](https://siteforlio.tech)
+[![Three.js](https://img.shields.io/badge/Three.js-3D-black?style=flat-square&logo=three.js)](https://siteforlio.tech)
+[![Spline](https://img.shields.io/badge/Spline-4.0-5B63FD?style=flat-square)](https://siteforlio.tech)
+
+Modern landing page with 3D Spline integration, GSAP animations, and custom GLSL shaders
+
+[**View Live →**](https://siteforlio.tech)
+
+---
+
+### **Check Out My Portfolio**
+
+[![Portfolio](https://img.shields.io/badge/🎯_Full_Portfolio-View_All_Projects-5B63FD?style=for-the-badge)](https://siteforlio.tech/solomon-jesse)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 **GitHub Stats**
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 **My Philosophy**
+
+</div>
+
+<div align="center">
+
+> **"Ship fast. Validate hard. Build to scale."**
+
+I believe in building products that don't just work—they excel. From MVP to market leader,<br/>
+I architect systems that are type-safe, performant, and built for the long haul.
+
+**Modern practices. Zero technical debt. Production-ready code.**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Build Together**
+
+</div>
+
+<div align="center">
+
+Whether you're a founder with an idea or a company scaling to millions of users,<br/>
+I help turn technical challenges into elegant solutions.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-siteforlio.tech/solomon--jesse-5B63FD?style=for-the-badge)](https://siteforlio.tech/solomon-jesse)
+[![Email](https://img.shields.io/badge/📧_Email-hello@siteforlio.tech-FF6B6B?style=for-the-badge)](mailto:hello@siteforlio.tech)
+[![SiteForlio](https://img.shields.io/badge/💼_SiteForlio-Visit_Company-4ECB71?style=for-the-badge)](https://siteforlio.tech)
+
+<br/><br/>
+
+### **Available for:**
+✓ Technical co-founder partnerships
+✓ MVP development (4-8 weeks)
+✓ AI/ML integration & consulting
+✓ Architecture & performance audits
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer)
+
+<sub>**Building the next generation of startups, one line of code at a time.**</sub>
+
+</div>
