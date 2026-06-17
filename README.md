@@ -40,7 +40,7 @@
 <sub><b>Across Multiple Industries</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/2-Open_Source_Products-10B981?style=for-the-badge&labelColor=1a1a1a" alt="2 OSS Products"/>
+<img src="https://img.shields.io/badge/2-Flagship_Products-10B981?style=for-the-badge&labelColor=1a1a1a" alt="2 Products"/>
 <br/><br/>
 <sub><b>Developer Core & DigiLaw</b></sub>
 </td>
@@ -379,7 +379,7 @@ Building companies for the next generation of founders
 
 **AI Engineer**
 <br/>
-<sub>[@DigiLaw](https://www.linkedin.com/company/digilaw-app)</sub>
+<sub>[@DigiLaw](https://digilaw.app)</sub>
 
 <br/><br/>
 
